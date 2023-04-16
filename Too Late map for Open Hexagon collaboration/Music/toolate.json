@@ -1,0 +1,20 @@
+{
+	// Music data id
+	"id": "toolate",
+
+	// Music file
+	"file_name": "toolate.ogg",
+
+	// Music information
+	"name": "Too Late",
+	"album": "None",
+	"author": "Major Look",
+	
+	// Segments
+	"segments":
+	[
+		
+		{ "time": 60 },
+		
+	]
+}

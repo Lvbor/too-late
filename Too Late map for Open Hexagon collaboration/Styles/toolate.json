@@ -1,0 +1,82 @@
+{
+	// Style data id
+	"id": "toolate",
+
+	// Hue options
+	"hue_min": 0,
+	"hue_max": 360,
+	"hue_ping_pong": true,
+	"hue_increment": 10,
+	
+	// Pulse options
+	"pulse_min": 0,
+	"pulse_max": 0.1,
+	"pulse_increment": 0.04,
+
+	// 3D options
+	"3D_depth": 7,
+	"3D_skew": 0.50,
+	"3D_spacing": 25,
+	"3D_darken_multiplier": 2.7,
+	"3D_alpha_multiplier": 1.6,
+	"3D_alpha_falloff": 8,
+	//"3D_override_color": [0, 0, 0, 84],
+	
+	"3D_pulse_min": 0,
+	"3D_pulse_max": 2.15,
+	"3D_pulse_speed": 0.11,
+
+	// Main color
+	"main": { "main": true, "dynamic": false, "value": [0, 0, 0, 360], "pulse": [0, 0, 0, 0] },
+
+	// Background colors
+	"colors":
+	[	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 10 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 20 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 30 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 40 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 50 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 60 },	
+		
+
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 70 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 80 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 90 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 100 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 110 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 120 },		
+	
+	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 130 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 140 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 150 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 160 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 170 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 180 },	
+		
+
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 190 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 200 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 210 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 220 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 230 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 240 },	
+		
+
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 250 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 260 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 270 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 280 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 290 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 300 },
+		
+		
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 310 },	
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 320 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 330 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 340 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 350 },
+		{"dynamic": true, "dynamic_offset": false, "dynamic_darkness": 2.0, "value": [255, 255, 255, 255], "pulse": [255, 255, 255, 255], "hue_shift": 360 }
+	]
+}
